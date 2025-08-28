@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**oliviermugishak/oliviermugishak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A software developer with a primary interest in backend engineering using Go, focusing on creating high-performance, easy-to-maintain applications. Full-stack experience combines a Go-driven backend with modern web development using TypeScript and various web frameworks. The goal is to master Go for crafting efficient, scalable systems that power a variety of applications.
 
-Here are some ideas to get you started:
+### 🔭 What's being done
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Building Systems with Go**: Leveraging Go's performance and concurrency to build efficient and reliable backend services.
+*   **Creating Full-Stack Applications**: Integrating Go backends with modern TypeScript-based frontends to deliver comprehensive web experiences.
+*   **Contributing to Open-Source**: Seeking collaboration opportunities in Go, TypeScript, and Python projects.
+
+### 🌱 Seeking
+
+*   **Seeking Opportunities**: Actively looking for professional roles where skills can be applied and grow as a developer.
+*   **Open-Source Collaboration**: Eager to contribute to projects that align with technical interests.
+
+### 📫 How to connect
+
+*   [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+*   [Your Portfolio/Website] (if applicable)
+
