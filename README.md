@@ -1,5 +1,3 @@
-> WARNING: This is not ai generated content
- 
 I am Oliver THE CREWMAN, rustacean, hobbiest programmer.
 
 I work as a real engineer, have impact on society.
